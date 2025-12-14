@@ -55,21 +55,21 @@ a {
   font-style: normal;
 }
 
-.adress-list {
+.address-list {
 }
-.adress-item {
+.address-item {
 }
-.adress-link {
+.address-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.adress-link:hover {
+.address-link:hover {
   color: #404bbf;
 }
-.adress-link:focus {
+.address-link:focus {
   color: #404bbf;
 }
 
@@ -99,7 +99,7 @@ a {
 .hero-section-button:hover {
   background-color: #404bbf;
 }
-.hero-section-button :focus {
+.hero-section-button:focus {
   background-color: #404bbf;
 }
 /*-------------------BENEFITS-------------------*/
@@ -200,6 +200,7 @@ a {
   background-color: #2e2f42;
 }
 .footer-link {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.16667;
